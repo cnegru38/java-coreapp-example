@@ -8,5 +8,6 @@ This is an example of a Core Java application I implemented for my final exam fo
 
 📁 Technologies Used
 - Java
+- IntelliJ IDEa
 
 Original finish date: February 7, 2025
